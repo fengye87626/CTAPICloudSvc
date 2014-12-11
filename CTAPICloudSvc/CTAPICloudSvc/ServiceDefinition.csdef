@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceDefinition name="CTAPICloudSvc" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition" schemaVersion="2014-01.2.3">
+  <WorkerRole name="CTAPIWorkerRole" vmsize="Medium">
+    <Imports>
+      <Import moduleName="Diagnostics" />
+    </Imports>
+    <LocalResources>
+      <LocalStorage name="LocalStorage1" cleanOnRoleRecycle="false" sizeInMB="1000" />
+    </LocalResources>
+    <ConfigurationSettings>
+      <Setting name="OBUCsvFile" />
+      <Setting name="CTTimmerIntervalMinute" />
+      <Setting name="PostIntervalSec" />
+      <!--Setting name="CTBaseEndpoint"-->
+      <Setting name="CTUserName" />
+      <Setting name="CTPassword" />
+      <!--Setting name="DelphiBaseEndPoint"-->
+      <Setting name="DelphiUserName" />
+      <Setting name="DelphiPassword" />
+      <Setting name="DelphiClientGuid" />
+      <Setting name="CsvfileStorageConnectionString" />
+      <Setting name="ContainerName" />
+    </ConfigurationSettings>
+  </WorkerRole>
+</ServiceDefinition>

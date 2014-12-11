@@ -1,0 +1,7 @@
+C:\SharedAPI\CTDelphiCombine\CTAPICloudSvc\DelphiCTCombinaiton\bin\Debug\DelphiCTCombinaiton.dll
+C:\SharedAPI\CTDelphiCombine\CTAPICloudSvc\DelphiCTCombinaiton\bin\Debug\DelphiCTCombinaiton.pdb
+C:\SharedAPI\CTDelphiCombine\CTAPICloudSvc\DelphiCTCombinaiton\bin\Debug\Newtonsoft.Json.dll
+C:\SharedAPI\CTDelphiCombine\CTAPICloudSvc\DelphiCTCombinaiton\bin\Debug\Newtonsoft.Json.xml
+C:\SharedAPI\CTDelphiCombine\CTAPICloudSvc\DelphiCTCombinaiton\obj\Debug\DelphiCTCombinaiton.dll
+C:\SharedAPI\CTDelphiCombine\CTAPICloudSvc\DelphiCTCombinaiton\obj\Debug\DelphiCTCombinaiton.pdb
+C:\SharedAPI\CTDelphiCombine\CTAPICloudSvc\DelphiCTCombinaiton\obj\Debug\DelphiCTCombinaiton.csprojResolveAssemblyReference.cache

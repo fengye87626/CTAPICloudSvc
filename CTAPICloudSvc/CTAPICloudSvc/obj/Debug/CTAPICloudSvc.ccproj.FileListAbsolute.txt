@@ -1,0 +1,2 @@
+C:\SharedAPI\CTDelphiCombine\CTAPICloudSvc\CTAPICloudSvc\bin\Debug\ServiceConfiguration.cscfg
+C:\SharedAPI\CTDelphiCombine\CTAPICloudSvc\CTAPICloudSvc\bin\Debug\ServiceDefinition.csdef
